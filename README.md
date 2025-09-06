@@ -1,5 +1,3 @@
-# Nome: Caio dos Santos Fusco
-# Curso: Desenvolvimento Backend I
 # Projeto: Educasil
 
 # Resumo do Projeto
